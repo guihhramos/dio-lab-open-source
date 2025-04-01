@@ -2,7 +2,7 @@
 
 ## SOBRE MIM
 --------------------------
-Olá, me chamo Guilherme Andrade, tenho 19 anos e muita paixão pela área de tecnologia.
+Olá, me chamo Guilherme Silva Ramos, tenho 19 anos e muita paixão pela área de tecnologia.
 
 Desde sempre me interessei por tecnologia e na minha adolescência pude me aprofundar mais ainda nesse vasto cenário, acompanhando alguns projetos de terceiros, buscando projetos open source e hoje estou tendo a oportunidade de está estudando a linguagem que mais atraiu minha atenção que é Java! (infelizmente um terror para muitos, mas para mim é algo encantador).
 
